@@ -1,6 +1,6 @@
 #Twitter app credentials
 
-consumer_key = 'HtXN3EvLH6Pclnuuw9KKwqjVv'
-consumer_secret = 'hiBBe6AP3iD3bYXCBRb7sYgpfdMvSzbDb1HtEbO1rdoTvAnWMi'
-access_token = '2387937997-Zuhai7H4N9aQnrNZdFNDy73UJkQ8wHay218k79i'
-access_secret = 'hiBBe6AP3iD3bYXCBRb7sYgpfdMvSzbDb1HtEbO1rdoTvAnWMi'
+consumer_key = 'b4eHIwVDsQDgXTSpdSvYVkBji'
+consumer_secret = 'Mxb3QUpcYC5uN0BdIzX8Mk46x4UvpztXS9NOjMCC7rNLZQEMZP'
+access_token = '2387937997-yeSsk9645tuRv48WqciXnfDqT7i2UaB2HpSdw0V'
+access_secret = 'Btz2PHRn4lGfRhiN47VxbQJq3iDRd2P7pkIOxKtzsrVyh'
