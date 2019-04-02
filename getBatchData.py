@@ -14,7 +14,7 @@ api = tweepy.API(auth)
 queryHashtag = 'DonaldTrump'
 
 def process_or_store(tweet):
-	print(consumer_key)
+    print(consumer_key)
     #print(json.dumps(tweet))
     #f = codecs.open('tweetDump.json', 'a','utf-8') #writing to local file.
     try:
