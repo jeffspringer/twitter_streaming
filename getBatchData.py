@@ -43,4 +43,4 @@ startTime=time.time()
 while True:
 	if __name__ == "__main__":
 	    main()
-	time.sleep(60.0 - time.time() % 60)
+	time.sleep(900.0 - time.time() % 60)
